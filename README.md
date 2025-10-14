@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-I work on projects spanning machine learning, signal processing, and communication systems.
+I work on projects mostly spanning machine learning and signal processing.
 
 ---
 
