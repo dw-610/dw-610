@@ -1,51 +1,51 @@
 # Hi, I'm Dylan 👋
 
-I work on projects mostly spanning machine learning and signal processing.
+I work on projects spanning machine learning, signal processing, and communication systems.
 
 ---
 
 ## Research & Academic
 
 **[semantic-rate-dist-code](https://github.com/dw-610/semantic-rate-dist-code)**  
-Code for "Meaningful Goals: Toward a Semantic-Functional Rate Distortion Theory"
+Experiments for paper on semantic-functional rate distortion theory, extending classical rate distortion with semantic encoders and task-based distortion
 
 **[concept-learning-and-causal-reasoning](https://github.com/dw-610/concept-learning-and-causal-reasoning)**  
-Code accompanying the paper "Conceptual Learning and Causal Reasoning for Semantic Communication" by D. Wheeler and B. Natarajan
+VAE-based conceptual space learning with Wasserstein loss combined with DirectLiNGAM causal discovery for semantic communication on German traffic signs
 
 **[CSLearn](https://github.com/dw-610/CSLearn)**  
-Framework for learning conceptual space representations, as well as other basic models such as classifiers and autoencoders
+Python framework for training CNN-based models with custom Domain Learner architecture for learning conceptual space representations
 
 **[cs-gcastle](https://github.com/dw-610/cs-gcastle)**  
-Fork of Huawei's trustworthAI repo, for slightly modifying the gcastle implementation
+Modified fork of Huawei's causal structure learning toolbox with algorithms like DirectLiNGAM, NOTEARS, and DAG-GNN
 
 ---
 
 ## Signal Processing & Communications
 
 **[fm-spectrum-demod](https://github.com/dw-610/fm-spectrum-demod)**  
-Spectrum visualization and demodulation of baseband FM signals
+Complete pipeline for processing FM radio signals from SDR hardware, including IQ data loading, spectrum visualization, and phase differentiation demodulation
 
 **[digital-comm-tools](https://github.com/dw-610/digital-comm-tools)**  
-Tools for baseband simulation of a digital communication system
+IEEE 802.11 physical layer simulation with convolutional coding, Viterbi decoding, QAM modulation, and OFDM
 
 **[discrete-time-signal-processing](https://github.com/dw-610/discrete-time-signal-processing)**  
-Python implementations of concepts from Discrete-Time Signal Processing (Oppenheim)
+Python implementations of core DSP concepts from Oppenheim's Discrete-Time Signal Processing textbook
 
 ---
 
 ## Financial
 
 **[schwab-tracking-app](https://github.com/dw-610/schwab-tracking-app)**  
-Application written in Python for tracking a Schwab account using the developer portal
+OAuth-based application for tracking Schwab portfolio values and account status via the developer API
 
 ---
 
 ## Learning & Reference
 
 **[python-deepdive](https://github.com/dw-610/python-deepdive)**  
-Python Deep Dive Course - Accompanying Materials
+Jupyter notebooks from Udemy Python Deep Dive course series covering functional programming, iterators, hash maps, and OOP
 
 **[causal-book](https://github.com/dw-610/causal-book)**  
-Fork of Causal Inference and Discovery in Python by Packt Publishing
+Code repository for Packt's "Causal Inference and Discovery in Python" covering DoWhy, EconML, PyTorch, and causal ML algorithms
 
 ---
