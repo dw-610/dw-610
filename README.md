@@ -28,6 +28,9 @@ Complete pipeline for processing FM radio signals from SDR hardware, including I
 **[digital-comm-tools](https://github.com/dw-610/digital-comm-tools)**  
 IEEE 802.11 physical layer simulation with convolutional coding, Viterbi decoding, QAM modulation, and OFDM
 
+**[visual-z-transform](https://github.com/dw-610/visual-z-transform)**  
+Interactive tool for visualizing digital filter pole-zero plots with real-time frequency response updates, featuring drag-and-drop pole/zero placement and magnitude/phase visualization
+
 **[discrete-time-signal-processing](https://github.com/dw-610/discrete-time-signal-processing)**  
 Python implementations of core DSP concepts from Oppenheim's Discrete-Time Signal Processing textbook
 
