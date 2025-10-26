@@ -31,6 +31,9 @@ IEEE 802.11 physical layer simulation with convolutional coding, Viterbi decodin
 **[visual-z-transform](https://github.com/dw-610/visual-z-transform)**  
 Interactive tool for visualizing digital filter pole-zero plots with real-time frequency response updates, featuring drag-and-drop pole/zero placement and magnitude/phase visualization
 
+**[sampling-exploration](https://github.com/dw-610/sampling-exploration)**  
+Interactive toolkit for visualizing sampling, decimation, and aliasing effects with time/frequency domain analysis and animation across multiple waveform types (sinusoid, square, triangle, sawtooth, chirp)
+
 **[discrete-time-signal-processing](https://github.com/dw-610/discrete-time-signal-processing)**  
 Python implementations of core DSP concepts from Oppenheim's Discrete-Time Signal Processing textbook
 
