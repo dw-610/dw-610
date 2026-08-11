@@ -39,13 +39,6 @@ Python implementations of core DSP concepts from Oppenheim's Discrete-Time Signa
 
 ---
 
-## Financial
-
-**[schwab-tracking-app](https://github.com/dw-610/schwab-tracking-app)**  
-OAuth-based application for tracking Schwab portfolio values and account status via the developer API
-
----
-
 ## Learning & Reference
 
 **[python-deepdive](https://github.com/dw-610/python-deepdive)**  
